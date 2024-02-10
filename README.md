@@ -1,4 +1,6 @@
 # MatMul-Py
 * Matrix Multipler writed in Python
 * Do Matrix Multipication in python
-* Do rotation matrix calculations
+* Do 2d-rotation matrix calculations
+
+### 3D-rotation MATRIX!!!
